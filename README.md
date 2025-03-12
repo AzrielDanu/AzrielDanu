@@ -15,7 +15,7 @@ I'm a passionate web developer with experience in front-end and back-end technol
 
 ### 📫 How to reach me:
 - GitHub: [AzrielDanu](https://github.com/AzrielDanu)
-- LinkedIn: [[*your-linkedin-profile* (optional)](https://www.linkedin.com/in/azriel-danu-rahman-304a2b320/)](https://www.linkedin.com/in/azriel-danu-rahman-304a2b320/)
+- LinkedIn: https://www.linkedin.com/in/azriel-danu-rahman-304a2b320/
 
 ⚡ Fun fact: I enjoy exploring new UI frameworks and optimizing web performance!
 
