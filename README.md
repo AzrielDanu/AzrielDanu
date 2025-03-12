@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there! 👋 I'm Azriel Danu
 
-<!--
-**AzrielDanu/AzrielDanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate web developer with experience in front-end and back-end technologies. I love building clean, efficient, and scalable web applications. 
 
-Here are some ideas to get you started:
+### 🚀 Technologies & Tools
+- **Front-End:** HTML, CSS, Bootstrap, Tailwind CSS, Vue.js, Nuxt.js, Pinia
+- **Back-End:** Laravel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 About Me
+- 🔭 I’m currently working on various web projects using Vue.js and Laravel.
+- 🌱 I’m always eager to learn new technologies and improve my skills.
+- 👯 I’m open to collaborating on interesting web development projects.
+- 💬 Ask me about Vue.js, Nuxt.js, Laravel, and state management with Pinia.
+
+### 📫 How to reach me:
+- GitHub: [AzrielDanu](https://github.com/AzrielDanu)
+- Email: *your-email@example.com* (replace with your actual email)
+- LinkedIn: *your-linkedin-profile* (optional)
+
+⚡ Fun fact: I enjoy exploring new UI frameworks and optimizing web performance!
+
+---
+✨ Let's build something awesome together! ✨
